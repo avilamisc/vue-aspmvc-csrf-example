@@ -1,2 +1,2 @@
 # vue-aspmvc-csrf-example
-An example of implementing CSRF on Vue.js &amp; ASP.NET MVC
+An example of preventing CSRF on Vue.js &amp; ASP.NET MVC
